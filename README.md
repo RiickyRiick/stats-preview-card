@@ -28,6 +28,10 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
+### Link
+
+- Live Link: https://riickyriick.github.io/stats-preview-card/
+
 ### Screenshot
 
 <img src="./design/my desktop stats preview card.png"/>
