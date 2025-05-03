@@ -18,7 +18,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Overview
 
-Another great project for further review is placing the design in the center and making it responsive. I added an extra media query at 850px, initiating a flex-wrap on the .business-stats. Once the viewport width began to decrease, it was better for a column flex-direction, or else the stats would bunch up together, making the design fall apart. Also added a margin-top and margin-right for some spacing in between these items (i.e., < section >) 
+Another great project for further review. Again, placing the design in the center and making it responsive. I added an extra media query at 850px, initiating a flex-wrap on the .business-stats. Once the viewport width began to decrease, it was better for a column flex-direction, or else the stats would bunch up together, making the design fall apart. Also added a margin-top and margin-right for some spacing in between these items (i.e., < section >) 
 
 Overall, the design was great with the help of a few resources I jotted down below in the resource section.
 
